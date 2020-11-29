@@ -6,6 +6,7 @@
   <li><h4>HTML Bootstrap3</h4></li>
   <li><h4>google charts</h4></li> 
 </ol>
+--------------------------------------------------------------------
 <h3>Additional setup:</h3>
 <h4>Code can be reviewed by a normal text editior like Notepad.</h4>
 <h4>For better view use VScode.</h4>
